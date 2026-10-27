@@ -1,6 +1,8 @@
 from editeur import Editeur
 from historique import Historique
 
+# Test du Mémento avec ajout, enregistrement et restauration.
+
 editeur = Editeur()
 historique = Historique()
 
